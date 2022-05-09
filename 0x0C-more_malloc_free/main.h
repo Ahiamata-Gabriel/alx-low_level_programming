@@ -2,7 +2,7 @@
 #define MAIN_H
 
 /**
- * Author: Nathaniel Yeboah
+ * Author: Mogul Inc.
  * Description: Header file containing prototypes for all functions
  *       used in the 0x0C-more_malloc_free directory.
  */
